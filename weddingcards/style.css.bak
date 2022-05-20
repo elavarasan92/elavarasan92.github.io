@@ -4,7 +4,7 @@
     margin: auto;
     text-align: center;
     font-family: arial;
-    background-image: url(/weddingcards/background.jpg);
+    background-image: url(/invitation/assets/images/background.jpg);
     height: 1600px;
     background-size: 100%;	
 }
